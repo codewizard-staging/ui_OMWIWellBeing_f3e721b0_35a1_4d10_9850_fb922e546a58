@@ -1,0 +1,26 @@
+{
+
+"user": [
+    {
+        "key": "UserId",
+        "type": "keyid",
+        "UIComponentTitle": "User"
+    }
+        ,{
+        "key": "Username",
+        "label": "Username",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+    ,{
+        "key": "Email",
+        "label": "Email",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+]
+}
